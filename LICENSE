@@ -1,0 +1,62 @@
+Copyright (c) 2026 Aranonn Thaneeyasanee. All Rights Reserved.
+สงวนลิขสิทธิ์ พ.ศ. 2569 โดย อรนนท์ ธนียะสาณี
+
+================================================================================
+ENGLISH
+================================================================================
+
+This source code is published publicly for the sole purpose of evaluation,
+review, and verification of authorship by competition judges, reviewers, and
+prospective collaborators.
+
+This is NOT open-source software. No license is granted, expressly or by
+implication, to use, copy, modify, merge, publish, distribute, sublicense,
+sell, or create derivative works from this software or any portion of it.
+
+Permitted without prior written consent:
+  - Viewing and reading the source code.
+  - Compiling and running it locally for the purpose of evaluating this
+    submission.
+
+Not permitted without prior written consent from the copyright holder:
+  - Any commercial use whatsoever.
+  - Redistribution, publication, or sublicensing in any form.
+  - Creating derivative or competing works based on this code.
+  - Incorporating any part of this code into another project.
+
+Forking on GitHub is a function of the GitHub platform and does not grant any
+of the rights withheld above.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+USE OF THIS SOFTWARE.
+
+This software interfaces with motor vehicle diagnostic systems. The author
+accepts no liability for any damage to vehicles, equipment, or persons.
+
+================================================================================
+ภาษาไทย
+================================================================================
+
+ซอร์สโค้ดชุดนี้เผยแพร่สู่สาธารณะเพื่อวัตถุประสงค์ในการตรวจประเมิน พิจารณา
+และยืนยันความเป็นเจ้าของผลงานโดยคณะกรรมการการแข่งขันเท่านั้น
+
+ซอฟต์แวร์นี้ไม่ใช่ open source และไม่ได้อนุญาตให้ใช้ ทำซ้ำ ดัดแปลง เผยแพร่
+จำหน่าย หรือสร้างงานต่อเนื่องจากซอร์สโค้ดนี้ไม่ว่าส่วนใดส่วนหนึ่ง
+
+สิ่งที่ทำได้โดยไม่ต้องขออนุญาต:
+  - อ่านและศึกษาซอร์สโค้ด
+  - คอมไพล์และรันในเครื่องของตนเองเพื่อการตรวจประเมินผลงานชิ้นนี้
+
+สิ่งที่ต้องได้รับอนุญาตเป็นลายลักษณ์อักษรก่อน:
+  - การใช้งานเชิงพาณิชย์ทุกรูปแบบ
+  - การเผยแพร่ซ้ำหรือให้สิทธิ์ช่วง
+  - การสร้างงานดัดแปลงหรืองานที่แข่งขันกับผลงานนี้
+  - การนำส่วนใดส่วนหนึ่งของโค้ดไปรวมกับโปรเจคอื่น
+
+การกด Fork บน GitHub เป็นฟังก์ชันของแพลตฟอร์ม ไม่ถือเป็นการได้รับสิทธิ์ข้างต้น
+
+ซอฟต์แวร์นี้เชื่อมต่อกับระบบวินิจฉัยของยานยนต์ ผู้พัฒนาไม่รับผิดชอบต่อความเสียหาย
+ใดๆ ที่เกิดกับยานพาหนะ อุปกรณ์ หรือบุคคล

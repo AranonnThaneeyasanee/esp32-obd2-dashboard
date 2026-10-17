@@ -1,0 +1,26 @@
+# ── ค่า calibration จริงของรถ (ห้าม commit) ──
+src/vehicle_calibration.h
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Editor
+.vscode/
+.idea/
+
+# Build
+build/
+*.bin
+*.elf
+*.exe
+
+# Logs / ข้อมูลทดสอบ
+*.log
+logs/
+raw_logs/
+
+# OS
+Thumbs.db
+.DS_Store
